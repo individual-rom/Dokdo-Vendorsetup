@@ -1,9 +1,11 @@
+-----------Reference----- Dokdo
 dokdo_crespo-userdebug Dokdo
 dokdo_mako-userdebug Dokdo
 dokdo_grouper-userdebug Dokdo
 dokdo_flo-userdebug Dokdo
 dokdo_maguro-userdebug Dokdo
 dokdo_hammerhead-userdebug Dokdo
+-----------Samsung--- Dokdo
 dokdo_i9300-userdebug Dokdo
 dokdo_e210k-userdebug Dokdo
 dokdo_e210s-userdebug Dokdo
@@ -11,5 +13,7 @@ dokdo_i9100-userdebug Dokdo
 dokdo_n7100-userdebug Dokdo
 dokdo_t0lte-userdebug Dokdo
 dokdo_dalilgt-userdebug Dokdo
+--------------------hTC---- Dokdo
 dokdo_pyramid-userdebug Dokdo
+----------Xiaomi---- Dokdo
 dokdo_aries-userdebug Dokdo
